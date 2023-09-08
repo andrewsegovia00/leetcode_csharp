@@ -1,0 +1,15 @@
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/bin/Debug/net7.0/leetcode_1822
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/bin/Debug/net7.0/leetcode_1822.deps.json
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/bin/Debug/net7.0/leetcode_1822.runtimeconfig.json
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/bin/Debug/net7.0/leetcode_1822.dll
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/bin/Debug/net7.0/leetcode_1822.pdb
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/obj/Debug/net7.0/leetcode_1822.csproj.AssemblyReference.cache
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/obj/Debug/net7.0/leetcode_1822.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/obj/Debug/net7.0/leetcode_1822.AssemblyInfoInputs.cache
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/obj/Debug/net7.0/leetcode_1822.AssemblyInfo.cs
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/obj/Debug/net7.0/leetcode_1822.csproj.CoreCompileInputs.cache
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/obj/Debug/net7.0/leetcode_1822.dll
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/obj/Debug/net7.0/refint/leetcode_1822.dll
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/obj/Debug/net7.0/leetcode_1822.pdb
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/obj/Debug/net7.0/leetcode_1822.genruntimeconfig.cache
+/Users/andrewsegovia/code/leetcode_csharp/leetcode_1822/obj/Debug/net7.0/ref/leetcode_1822.dll
